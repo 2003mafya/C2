@@ -3,7 +3,7 @@
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "JustRelaxable",
@@ -17,14 +17,14 @@
     "version": 15,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/InatBox.cs3",
     "name": "InatBox"
   },
   {
     "iconUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frectv.org.tr%2Fwp-content%2Fuploads%2F2024%2F11%2Frectv-modified.webp&f=1&nofb=1&ipt=243a15ba76473d64233d0a6be6c338aa6a15f4ced36db7b11c9a4f924b036e9d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "keyiflerolsun",
@@ -39,14 +39,14 @@
     "version": 1,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/RecTV.cs3",
     "name": "RecTV"
   },
   {
-    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 0,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "status": 1,
     "language": "tr",
     "authors": [
       "Makoto Tokioki"
@@ -55,16 +55,16 @@
       "Live"
     ],
     "version": 14,
-    "internalName": "GolgeTV",
-    "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
-    "name": "GolgeTV"
+    "internalName": "DiziPal",
+    "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
+    "name": "DiziPal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "keyiflerolsun",
@@ -76,14 +76,14 @@
     "version": 11,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AnimeciX.cs3",
     "name": "AnimeciX"
   },
   {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 3,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -96,7 +96,7 @@
         "version": 16,
         "internalName": "SineWix",
         "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/SineWix.cs3",
         "name": "SineWix"
     },
   {
@@ -104,7 +104,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "fileSize": 13525,
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -115,14 +115,14 @@
         "version": 14,
         "internalName": "YerelDiziler",
         "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
         "name": "YerelDiziler"
     },
   {
-        "iconUrl": "https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -132,16 +132,16 @@
             "TvSeries"
         ],
         "version": 9,
-        "internalName": "Tabii",
-        "description": "Tabii i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Tabii.cs3",
-        "name": "Tabii"
+        "internalName": "DDizi",
+        "description": "DDizi i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DDizi.cs3",
+        "name": "DDizi"
     },
   {
         "iconUrl": "https://cizgivedizi.com/Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -152,14 +152,14 @@
         "version": 3,
         "internalName": "CizgiVeDizi",
         "description": "Pop\u00fcler \u00e7izgi film ve dizilerin T\u00fcrk\u00e7e g\u00fcncel kayna\u011f\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CizgiVeDizi.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CizgiVeDizi.cs3",
         "name": "CizgiVeDizi"
     },
   {
         "iconUrl": "https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -170,14 +170,14 @@
         "version": 4,
         "internalName": "CanliTv",
         "description": "Ulusal kanallar\u0131 bu eklentide izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CanliTv.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
         "name": "CanliTv"
     },
   {
         "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -191,14 +191,14 @@
         "version": 2,
         "internalName": "WebDramaTurkey",
         "description": "Asya i\u00e7eriklerinin tek adresi.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/WebDramaTurkey.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/WebDramaTurkey.cs3",
         "name": "WebDramaTurkey"
     },
   {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -210,14 +210,14 @@
         "version": 2,
         "internalName": "TorrentFilm",
         "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/TorrentFilm.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
         "name": "TorrentFilm"
     },
   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "keyiflerolsun",
@@ -230,14 +230,14 @@
         "version": 8,
         "internalName": "Dizilla",
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Dizilla.cs3",
         "name": "Dizilla"
     },
   {
         "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -248,32 +248,34 @@
         "version": 1,
         "internalName": "YerelProgramlar",
         "description": "Yerel programlar\u0131 g\u00fcncel \u015fekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelProgramlar.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelProgramlar.cs3",
         "name": "YerelProgramlar"
     },
   {
-        "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "status": 1,
         "language": "tr",
         "authors": [
-            "Makoto Tokioki"
+            "keyiflerolsun",
+            "JustRelaxable",
+            "nikyokki"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 8,
-        "internalName": "SSportPlus",
-        "description": "SSport+ canlı yayınları ve arşiv içerikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
-        "name": "SSportPlus"
+        "internalName": "BelgeselX",
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/BelgeselX.cs3",
+        "name": "BelgeselX"
     },
   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -286,14 +288,14 @@
         "version": 1,
         "internalName": "AsyaWatch",
         "description": "AsyaWatch.com",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaWatch.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaWatch.cs3",
         "name": "AsyaWatch"
     },
   {
         "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -304,14 +306,14 @@
         "version": 2,
         "internalName": "AsyaAnimeleri",
         "description": "AsyaAnimeleri.top",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
     },
   {
         "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -322,14 +324,14 @@
         "version": 1,
         "internalName": "Kanal 7",
         "description": "Hint, Pakistan ve T\u00fcrk dizilerinin adresi",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Kanal 7.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Kanal 7.cs3",
         "name": "Kanal 7"
     },
   {
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -338,16 +340,16 @@
             "TvSeries"
         ],
         "version": 3,
-        "internalName": "Exxen",
-        "description": "Exxen Full",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Exxen.cs3",
-        "name": "Exxen"
+        "internalName": "DiziBox",
+        "description": "DiziBox Full",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziBox.cs3",
+        "name": "DiziBox"
     },
       {
         "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -358,14 +360,14 @@
         "version": 1,
         "internalName": "Puhu",
         "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
         "name": "Puhu"
     },
   {
         "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -376,14 +378,14 @@
         "version": 2,
         "internalName": "AsyaFilmIzlesene",
         "description": "Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
         "name": "AsyaFilmIzlesene"
     },
    {
-        "iconUrl": "https://blog.r10.net/storage/uploads/post/2022/03/gain-1648729106.jpg",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -392,9 +394,9 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "Gain",
-        "description": "Gain i\u00e7erikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Gain.cs3",
-        "name": "Gain"
+        "internalName": "JetFilmizle",
+        "description": "JetFilmizle i\u00e7erikleri",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/JetFilmizle.cs3",
+        "name": "JetFilmizle"
     }
 ]
