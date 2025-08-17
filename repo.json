@@ -1,8 +1,8 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
+    "name": "Mafya",
+    "description": "Türkiye",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/plugins.json"
+      "https://raw.githubusercontent.com/2003mafya/C2/main/plugins.json"
     ]
 }
