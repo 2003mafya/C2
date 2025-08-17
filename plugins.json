@@ -328,7 +328,7 @@
   {
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/2003mafya/C2",
         "status": 0,
         "language": "tr",
         "authors": [
@@ -340,13 +340,13 @@
         "version": 3,
         "internalName": "Exxen",
         "description": "Exxen Full",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Exxen.cs3",
+        "url": "https://raw.githubusercontent.com/2003mafya/C2/main/Exxen.cs3",
         "name": "Exxen"
     },
       {
         "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/2003mafya/C2",
         "status": 0,
         "language": "tr",
         "authors": [
@@ -358,13 +358,13 @@
         "version": 1,
         "internalName": "Puhu",
         "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "url": "https://raw.githubusercontent.com/2003mafya/C2/main/Puhu.cs3",
         "name": "Puhu"
     },
   {
         "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/2003mafya/C2",
         "status": 0,
         "language": "tr",
         "authors": [
@@ -376,13 +376,13 @@
         "version": 2,
         "internalName": "AsyaFilmIzlesene",
         "description": "Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
+        "url": "https://raw.githubusercontent.com/2003mafya/C2/main/AsyaFilmIzlesene.cs3",
         "name": "AsyaFilmIzlesene"
     },
    {
         "iconUrl": "https://blog.r10.net/storage/uploads/post/2022/03/gain-1648729106.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/2003mafya/C2",
         "status": 0,
         "language": "tr",
         "authors": [
@@ -394,7 +394,7 @@
         "version": 1,
         "internalName": "Gain",
         "description": "Gain i\u00e7erikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Gain.cs3",
+        "url": "https://raw.githubusercontent.com/2003mafya/C2/main/Gain.cs3",
         "name": "Gain"
     }
 ]
